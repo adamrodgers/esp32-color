@@ -16,7 +16,7 @@
     "short_press_time": 800,
     "long_press_time": 2000,
     "fetch_hold_time": 8000,
-    "led_on_duration": 60000,
+    "led_on_duration": 120000,
     "fade_out_speed": 50,
     "flash_count": 3,
     "flash_duration": 200,
