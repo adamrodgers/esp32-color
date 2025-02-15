@@ -20,17 +20,5 @@
     "flash_count": 3,
     "flash_duration": 200,
     "debug_logging": true
-  },
-  "devices": {
-    "deviceA": {
-      "mac": "AA:BB:CC:DD:EE:FF",
-      "send_feed": "deviceB.LED",
-      "receive_feed": "deviceA.LED"
-    },
-    "deviceB": {
-      "mac": "11:22:33:44:55:66",
-      "send_feed": "deviceA.LED",
-      "receive_feed": "deviceB.LED"
-    }
   }
 }
