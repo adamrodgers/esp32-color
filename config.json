@@ -14,6 +14,8 @@
   ],
   "settings": {
     "short_press_time": 800,
+    "medium_press_time": 2000,
+    "long_press_time": 8000,
     "fetch_press_time": 8000,
     "led_on_duration": 10800000,
     "fade_out_speed": 50,
